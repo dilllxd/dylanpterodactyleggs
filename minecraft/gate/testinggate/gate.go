@@ -14,6 +14,8 @@ func main() {
 	//
 	// Checkout https://github.com/minekube/awesome for some inspiration.
 
+	// exampleplugin.Plugin,
+
 	// Add more plugins as you like.
 	// They will be initialized in the same order as appended.
 

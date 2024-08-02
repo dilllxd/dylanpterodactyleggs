@@ -1,4 +1,4 @@
-module github.com/dilllxd/dylanpterodactyleggs/minecraft/gate/testinggate
+module gate
 
 go 1.22.2
 
@@ -10,15 +10,12 @@ require (
 	go.minekube.com/gate v0.38.2
 )
 
-require filippo.io/edwards25519 v1.1.0 // indirect
-
 require (
 	buf.build/gen/go/minekube/connect/protocolbuffers/go v1.34.1-20240220124425-904ce30425c9.1 // indirect
 	github.com/Tnze/go-mc v1.20.2 // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
 	github.com/dboslee/lru v0.0.1 // indirect
-	github.com/dilllxd/dynamicserverapi v0.0.0-20240802002124-cea955691124 // indirect
 	github.com/edwingeng/deque/v2 v2.1.1 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
